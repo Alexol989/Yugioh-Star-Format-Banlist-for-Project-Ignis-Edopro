@@ -10,7 +10,7 @@ Como instalar:
 
 1-Abre la carpeta origen de tu Project Ignis ya instalado
 
-2-Copia dentro de la carpeta los archivos del repositorio
+2-Copia dentro de la carpeta los archivos del repositorio (las carpetas pics,iflist,script,expansions)
 
 3-Dentro de la aplicación, en el editor de decks ya podras seleccionar la banlist de Star
 
